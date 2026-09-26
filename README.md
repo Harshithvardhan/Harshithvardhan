@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Python and modern development technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harshithvardhan](https://github.com/Harshithvardhan)
+- 👨‍💻 All of my projects are available at [https://github.com/Harshithvardhan](Harshithvardhan)
 
 - 📫 How to reach me **harshithvardhan123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B38ApTadY1Gz1eiOgRZCjVhZP4-dOZ5g/view?usp=sharing](https://drive.google.com/file/d/1B38ApTadY1Gz1eiOgRZCjVhZP4-dOZ5g/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B38ApTadY1Gz1eiOgRZCjVhZP4-dOZ5g/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
