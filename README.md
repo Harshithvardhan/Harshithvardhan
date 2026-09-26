@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshith Vardhan</h1>
 <h3 align="center">Software Developer | Python Developer | AI & Technology Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithvardhan&label=Profile%20views&color=0e75b6&style=flat" alt="harshithvardhan" /> </p>
 
 - 🌱 I’m currently learning **Python and modern development technologies**
 
