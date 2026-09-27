@@ -97,7 +97,6 @@ Here are some of the projects I have worked on:
 * ⚖️ **BMI Calculator**
 * 🌡️ **Temperature Converter**
 * 🎙️ **Voice Assistant**
-* 📄 **Document Scanner & OCR**
 * 🤖 **AI/ML-based Applications**
 
 Explore all my projects:
